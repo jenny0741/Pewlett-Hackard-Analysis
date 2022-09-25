@@ -234,7 +234,7 @@ SELECT ri.emp_no,
     ri.first_name,
     ri.last_name,
 	di.dept_name
---INTO sales_dev_info
+INTO sales_dev_info
 FROM retirement_info as ri
 LEFT JOIN dept_info as di
 ON ri.emp_no = di.emp_no
