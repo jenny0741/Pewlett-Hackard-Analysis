@@ -10,4 +10,4 @@ SQL was utilized to create databases that would help Pewlett Hackard prepare for
 4.	The mentorship program list excludes all employees not born within the year 1965, which means there could possibly be more employees eligible for the program [mentorship_eligibility](Data/mentorship_eligibility.csv)
 
 ## Summary
-To accurately determine how many roles will need to be filled, a bar graph can be made to categorize retiring employees into age groups. Using this chart, the company project the rate at which new hires need to be brought in.
+To accurately determine how many roles will need to be filled, a bar graph can be made to categorize retiring employees into age groups. Using this chart, the company project the rate at which new hires need to be brought in. The retirement_titles table can also be expanded to include more than just those born within the years 1952-1955, which would also give a better estimate of how large the hiring quota will be in the next coming years.
